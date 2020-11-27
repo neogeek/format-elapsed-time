@@ -2,6 +2,8 @@
 
 > Format elapsed time from the difference of two timestamps.
 
+[![NPM Version](http://img.shields.io/npm/v/format-elapsed-time.svg?style=flat)](https://www.npmjs.org/package/format-elapsed-time)
+
 ## Setup
 
 ```bash
