@@ -1,0 +1,26 @@
+{
+  "name": "format-elapsed-time",
+  "description": "Format elapsed time from the difference of two timestamps.",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=12.0"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "format",
+    "time"
+  ],
+  "authors": [
+    {
+      "name": "Scott Doxey",
+      "email": "hello@scottdoxey.com",
+      "homepage": "http://scottdoxey.com/"
+    }
+  ],
+  "homepage": "https://github.com/neogeek/format-elapsed-time",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neogeek/format-elapsed-time.git"
+  }
+}
